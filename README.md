@@ -1,6 +1,3 @@
-# GitFunded GSN Started kit
-
-
 ## Requirements
 
 Install Ganache and Truffle
